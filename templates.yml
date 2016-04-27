@@ -1,0 +1,5 @@
+templates:
+  - banners.tpl.html
+  - bannerDirective.tpl.html
+  - header.tpl.html
+  - widget.tpl.html

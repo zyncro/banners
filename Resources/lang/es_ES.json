@@ -1,0 +1,11 @@
+{
+    "zappBanners": {
+        "admin": {
+            "title": "Banners",
+            "headerLabel": "Url de la imagen del banner del header",
+            "widgetLabel": "Url de la imagen del banner del sidebar",
+            "success": "Banners guardados correctamente",
+            "error": "Ha habido un error al guardar los banners, intente nuevamente mas tarde y si vuelve a ocurrir contacte a soporte/admin"
+        }  
+    }
+}

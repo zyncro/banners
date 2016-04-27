@@ -1,0 +1,30 @@
+.zapp-banner {
+    position: relative;
+    max-width: 100%;
+    text-align: justify;
+}
+
+.zapp-banner.banner-widget {
+    margin: 10px 0;
+}
+
+.zapp-banner.banner-widget:first-child {
+    margin-top: 0
+}
+
+.zapp-banner.banner-widget:last-child {
+    margin-bottom: 0
+}
+
+.zapp-banner.banner-header {
+    margin-bottom: 5px;
+}
+
+.zapp-banner img {
+    max-width: 100%;
+    display: block;
+}
+
+#admin-banners .banner-widget {
+    width: 220px;
+}

@@ -1,0 +1,7 @@
+getBanners:
+    path:     /banners/getBanners/{organizationUrn}/{accessToken}
+    defaults: { _controller: 'banners\Controller\MainController::getBannersAction' }
+
+saveBanner:
+    path:     /banners/saveBanner/{organizationUrn}/{accessToken}
+    defaults: { _controller: 'banners\Controller\MainController::saveBannerAction' }
