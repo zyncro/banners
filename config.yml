@@ -1,6 +1,0 @@
-database:
-  driver: pdo_mysql
-  host: localhost
-  user: banners
-  password: xxxxxxx
-  dbname: banners
